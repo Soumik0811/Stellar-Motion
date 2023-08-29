@@ -12,7 +12,6 @@ Usage
 Methodology
 Results
 
-#### MATLAB (version [version number])
 #### Spectral data of HD94028
 #### Known wavelength of hydrogen alpha line
 ## Installation
@@ -22,7 +21,7 @@ Open MATLAB and navigate to the project directory.
 ## Usage
 Ensure you have the required spectral data of HD94028 and the known wavelength of the hydrogen alpha line.
 
-Open the MATLAB script stellar_motion_analysis.m.
+Open the MATLAB script main.m.
 
 Update the file paths and constants in the script according to your data.
 
