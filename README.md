@@ -2,6 +2,9 @@
 ## Overview
 The "Stellar Motion" project aims to calculate the observed wavelength of the hydrogen alpha line for the star HD94028 and compare it to the known wavelength of hydrogen absorption. By doing so, we can determine the star's radial velocity and understand how fast it is moving away from the Earth. This project is implemented using MATLAB and utilizes spectral analysis techniques.
 
+![image](https://github.com/Soumik0811/Stellar-Motion/assets/91133940/5db20ddb-06fd-41b5-9f9e-403547ff3092)
+#### ploting the spectra of all seven stars using different line properties for redshifted and blueshifted spectra.
+
 ## Table of Contents
 Requirements
 Installation
